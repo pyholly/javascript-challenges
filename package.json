@@ -1,0 +1,15 @@
+{
+  "name": "javascript-challenges",
+  "version": "1.0.0",
+  "description": "This project is a personal collection of well-crafted solutions to various algorithmic challenges, solved using JavaScript.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.6.2"
+  }
+}
